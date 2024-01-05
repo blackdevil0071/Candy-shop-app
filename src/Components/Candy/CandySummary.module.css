@@ -1,0 +1,9 @@
+.section {
+  background-color: rgb(135, 134, 136);
+  margin: auto;
+  color: white;
+  position: relative;
+  max-width: 45rem;
+  border-radius: 13px;
+  padding: 1rem;
+}

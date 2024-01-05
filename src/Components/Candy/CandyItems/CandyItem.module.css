@@ -1,0 +1,29 @@
+/* CandyItem.module.css */
+
+.meal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem auto; /* Adjusted margin for centering */
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+    width: 70%;
+    box-sizing: border-box;
+  }
+  
+  .meal h3 {
+    margin: 0 0 0.25rem 0;
+  }
+  
+  .description {
+    font-style: italic;
+    margin: 0; /* Remove extra margin */
+  }
+  
+  .price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #ad5502;
+    font-size: 1.25rem;
+  }
+  

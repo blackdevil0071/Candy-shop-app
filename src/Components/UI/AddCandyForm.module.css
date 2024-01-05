@@ -1,0 +1,44 @@
+/* AddCandyForm.module.css */
+
+.formContainer {
+    margin-bottom: 20px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  .label {
+    margin-bottom: 5px;
+    color: aliceblue;
+  }
+  
+  .input {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 110%;
+  }
+  .inputContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 10px;
+        width: 110%;
+      }
+  
+  .button {
+    padding: 10px;
+    background-color: #d63232;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  

@@ -1,0 +1,9 @@
+.button{
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(229, 255, 0);
+    align-items: center;
+}
